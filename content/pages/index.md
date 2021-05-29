@@ -112,7 +112,23 @@ sections:
       - author: lorem-ipsum
         position: lorem-ipsum
         avatar_alt: lorem-ipsum
-        content: lorem-ipsum
+        content: >-
+          I could not be happier with Matt and his team.  They did a beautiful
+          job
+           with our landscaping!  Matt is so easy to work with and is 
+          knowledgeable and creative.  He is always responsive and easy to 
+
+          communicate with.  He had a vision for the work but was equally 
+
+          interested in our ideas and did his best to bring them to fruition. 
+          His
+           rates are very reasonable, and he works quickly and efficiently. It is 
+          such a pleasure to look out our windows or walk out the front door
+          and 
+
+          see our beautifully landscaped property.  Matt is a very talented 
+
+          professional and I highly, highly recommend him.
         type: testimonial
   - type: cta_section
     section_id: cta
