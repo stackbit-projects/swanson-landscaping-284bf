@@ -88,7 +88,6 @@ sections:
           hardscaping needs you have.
       - author: Dianne Ameter
         avatar_alt: Dianne Ameter's photo
-        position: 'CTO, Another Company'
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
