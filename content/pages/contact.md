@@ -33,7 +33,7 @@ sections:
         label: What services are you looking for?
         default_value: Please select
         options:
-          - Brick and Stone
+          - Patio/Walkway
           - Concrete
           - Landscaping
       - input_type: textarea
