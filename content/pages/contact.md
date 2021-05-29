@@ -33,7 +33,7 @@ sections:
         label: What services are you looking for?
         default_value: Please select
         options:
-          - Patio/Walkway/
+          - Patio/Walkway/Step Install
           - Concrete
           - Landscaping
       - input_type: textarea
