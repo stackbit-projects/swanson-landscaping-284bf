@@ -90,7 +90,7 @@ sections:
       - author: Jann Stiven
         avatar_alt: Dianne Ameter's photo
         content: "Matt does a fantastic job.\_ He is very detailed and cleans everything up when he is done.\_ Our yard has never looked so good.\_ I can't wait for his next work day with us."
-      - author: lorem-ipsum
+      - author: Diane P.
         avatar_alt: lorem-ipsum
         content: >-
           Matt Swanson has a eye for what looks good. He understood my need for 
