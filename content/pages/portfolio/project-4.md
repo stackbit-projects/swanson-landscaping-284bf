@@ -1,5 +1,4 @@
 ---
-subtitle: Editorial Design
 date: '2020-05-10'
 thumb_image: /images/gardenbed3.jpg
 thumb_image_alt: Nature Mockup Magazine preview
