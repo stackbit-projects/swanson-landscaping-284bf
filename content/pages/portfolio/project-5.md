@@ -1,5 +1,4 @@
 ---
-subtitle: Editorial Design
 date: '2021-01-10'
 thumb_image: /images/IMG_20200717_135724_331.jpg
 thumb_image_alt: Nature Magazine preview
