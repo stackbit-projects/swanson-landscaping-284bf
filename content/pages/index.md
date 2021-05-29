@@ -30,7 +30,7 @@ sections:
     col_number: three
     grid_items:
       - title: Landscaping
-        image: /images/service-1.svg
+        image: /images/IMG_20200224_155043_MP_small.jpg
         content: |
           *   Landscape Design
           *   Landscaping for yard
