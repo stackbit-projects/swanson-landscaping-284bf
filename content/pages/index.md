@@ -31,14 +31,15 @@ sections:
     grid_items:
       - title: Landscaping
         image: /images/service-1.svg
-        content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
+        content: |
+          *   Landscape Design
+          *   Landscaping for yard
+          *   Garden Install
+          *   Soil, Sand, Mulch, and Rock Delivery
+          *   Minor Grading or Resloping
+          *   Landscape Curbing Install
+          *   Sod Install
+          *   Fall/Spring Yard Clean Up
       - title: Brick & Stone
         image: images/service-2.svg
         content: |-
