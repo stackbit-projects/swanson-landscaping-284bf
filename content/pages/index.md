@@ -47,7 +47,6 @@ sections:
           *   Brick or Stone Tuck-Point
           *   Brick and Stone Flatwork Repair
       - title: Concrete
-        image: images/service-3.svg
         content: |
           *   Retaining Wall Install
           *   Interlocking Pavers for Patios Install
