@@ -95,6 +95,11 @@ sections:
         avatar_alt: lorem-ipsum
         content: lorem-ipsum
         type: testimonial
+      - author: lorem-ipsum
+        position: lorem-ipsum
+        avatar_alt: lorem-ipsum
+        content: lorem-ipsum
+        type: testimonial
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
