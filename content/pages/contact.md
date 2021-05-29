@@ -35,7 +35,7 @@ sections:
         options:
           - Patio/Walkway/Step Install
           - Sod Install
-          - Landscaping
+          - 'Soil, Sand, Mulch, or Rock Delivery'
       - input_type: textarea
         name: message
         label: Message
