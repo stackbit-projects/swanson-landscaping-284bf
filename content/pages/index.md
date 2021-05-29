@@ -43,7 +43,7 @@ sections:
     col_number: three
     grid_items:
       - title: Stone Masonry
-        image: images/service-1.svg
+        image: /images/IMG_20200311_101927_MP.jpg
         content: |-
           - Research and insight
           - Business innovation and transformation
