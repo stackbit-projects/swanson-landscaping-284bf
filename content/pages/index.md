@@ -121,7 +121,7 @@ sections:
       - label: Let's start
         url: /contact
         style: button
-    image: /images/cta.svg
+    image: /images/logoTransparent.png
     image_alt: Illustration
     bg_color: light
 layout: advanced
