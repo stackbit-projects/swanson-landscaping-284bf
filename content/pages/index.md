@@ -81,9 +81,11 @@ sections:
       - author: Mary Yocum
         avatar_alt: Desmond Eagle's photo
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
+          Matt was very easy to work with. His pricing was very fair and he
+          worked hard to please us and give us exactly what we asked for. His
+          crew was very friendly and hardworking. We definitely plan to use him
+          for future projects. We would recommend Matt for any landscaping or
+          hardscaping needs you have.
       - author: Dianne Ameter
         avatar: images/dianne-ameter.jpg
         avatar_alt: Dianne Ameter's photo
