@@ -34,7 +34,7 @@ sections:
         default_value: Please select
         options:
           - Brick and Stone
-          - Design
+          - Concrete
           - Digital
       - input_type: textarea
         name: message
