@@ -39,7 +39,7 @@ sections:
           - Design strategy
           - Digital and experience strategy
           - Communication strategy
-      - title: Garden Bed & Walkway Design
+      - title: 'Brick, Stone, and Concrete'
         image: images/service-2.svg
         content: |-
           - Brand development
