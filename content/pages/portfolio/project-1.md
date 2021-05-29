@@ -1,5 +1,4 @@
 ---
-title: Design Is One
 date: '2020-02-10'
 thumb_image: /images/friendly-oak.jpg
 thumb_image_alt: Design Is One preview
