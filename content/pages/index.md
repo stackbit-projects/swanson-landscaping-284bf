@@ -6,7 +6,8 @@ sections:
     section_id: hero
     title: >-
       We are a Landscape Design & Services Company in the Triangle, Focusing on
-      Stone Masonry, Garden Bed & Walkway Design, and .
+      Stone Masonry, Garden Bed/Walkway Design, and Tree/Shrub/Grass
+      Maintenance.
     content: >-
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
