@@ -14,23 +14,6 @@ sections:
       turpis et nisi fermentum accumsan.
     image: /images/IMG_20200217_140026_MP.jpg
     image_alt: Our team in the meeting room
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions: []
-    image_alt: lorem-ipsum
-    bg_color: none
-    type: cta_section
 seo:
   title: About Us
   description: This is the about us page
