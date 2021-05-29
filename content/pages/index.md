@@ -40,7 +40,6 @@ sections:
           *   Sod Install
           *   Fall/Spring Yard Clean Up
       - title: Brick & Stone
-        image: images/service-2.svg
         content: |
           *   Brick and Stone Patio Install
           *   Walkway and Step Install
