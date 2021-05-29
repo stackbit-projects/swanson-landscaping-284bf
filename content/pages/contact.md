@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
-    content: |+
+    content: |
       Let’s build something great together.<br>
       Complete our contact form or send us an email at <email@example.com>.
 
@@ -12,11 +12,9 @@ sections:
 
       ## Our Location
 
-      115 Forest Ridge Dr. 
-      Chapel Hill, NC 27514
+      115 Forest Ridge Dr.  
+      Chapel Hill, NC 27514  
       [919-999-4709](tel:9199994709)
-
-
     form_id: contactForm
     form_action: /thank-you
     form_fields:
