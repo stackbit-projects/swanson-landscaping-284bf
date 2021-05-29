@@ -1,5 +1,4 @@
 ---
-title: The Book
 date: '2020-04-10'
 thumb_image: /images/IMG_20200224_155320_MP.jpg
 thumb_image_alt: The Book preview
