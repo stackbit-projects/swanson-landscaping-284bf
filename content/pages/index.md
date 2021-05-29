@@ -109,7 +109,7 @@ sections:
 
           pleased with the final result that I hired him for two other projects.
         type: testimonial
-      - author: lorem-ipsum
+      - author: Beth S.
         position: lorem-ipsum
         avatar_alt: lorem-ipsum
         content: >-
