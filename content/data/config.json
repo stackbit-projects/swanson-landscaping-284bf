@@ -50,7 +50,7 @@
             },
             {
                 "url": "#",
-                "style": "link",
+                "style": "icon",
                 "icon": "instagram",
                 "new_window": false,
                 "no_follow": false,
