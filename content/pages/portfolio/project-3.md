@@ -2,7 +2,7 @@
 title: The Book
 subtitle: Editorial Design
 date: '2020-04-10'
-thumb_image: /images/IMG_20200312_135819_MP.jpg
+thumb_image: /images/IMG_20200226_103826_MP.jpg
 thumb_image_alt: The Book preview
 sections:
   - type: image_section
