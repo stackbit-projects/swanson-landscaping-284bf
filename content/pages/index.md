@@ -42,14 +42,12 @@ sections:
           *   Fall/Spring Yard Clean Up
       - title: Brick & Stone
         image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
+        content: |
+          *   Brick and Stone Patio Install
+          *   Walkway and Step Install
+          *   Stone or Block Wall Install/Repair
+          *   Brick or Stone Tuck-Point
+          *   Brick and Stone Flatwork Repair
       - title: Concrete
         image: images/service-3.svg
         content: |-
