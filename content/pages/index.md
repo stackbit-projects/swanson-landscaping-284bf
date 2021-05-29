@@ -92,7 +92,22 @@ sections:
         content: "Matt does a fantastic job.\_ He is very detailed and cleans everything up when he is done.\_ Our yard has never looked so good.\_ I can't wait for his next work day with us."
       - author: lorem-ipsum
         avatar_alt: lorem-ipsum
-        content: lorem-ipsum
+        content: >-
+          Matt Swanson has a eye for what looks good. He understood my need for 
+
+          balance in the design. He absolutely brought to life seemingly the
+          red 
+
+          maple I had planted in honor of my mom when she died. He pruned and 
+
+          planted so her tree was highlighted and not obsured like it was. I am 
+
+          grateful for this beautiful memorial. 
+
+
+          His crew worked long and hard, doing a good job cleaning up. I was so 
+
+          pleased with the final result that I hired him for two other projects.
         type: testimonial
       - author: lorem-ipsum
         position: lorem-ipsum
