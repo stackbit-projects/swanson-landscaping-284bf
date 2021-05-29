@@ -8,9 +8,13 @@ sections:
       At Swanson Landscapes, our style is to approach each clients project 
       with personalized, professional, and artistic perspectives.
     content: >
-      We work closely with you to creatively integrate all aspects of the
-      project and make your ideas a reality. [Let's get the conversation
-      started](/contact/).
+      We only use the highest quality materials and machines. We develop
+      design/plan renderings to visualize your oasis.  We value every business
+      relationship, big or small. Our success lies in the ability to execute
+      landscaping projects of all types at an honest and affordable price. This
+      approach has set us apart from our competition and keeps our customers
+      coming back! We strongly believe in sustainable systems and caring for the
+      environment. [Let's get the conversation started](/contact/).
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
