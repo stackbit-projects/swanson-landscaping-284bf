@@ -51,7 +51,7 @@ sections:
           - Design strategy
           - Digital and experience strategy
           - Communication strategy
-      - title: Brand design
+      - title: Garden Bed & Walkway Design
         image: images/service-2.svg
         content: |-
           - Brand development
