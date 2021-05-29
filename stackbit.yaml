@@ -61,6 +61,7 @@ models:
           - blue
           - violet
           - yellow
+          - altBlue
         default: pink
         required: true
       - type: enum
