@@ -1,5 +1,4 @@
 ---
-subtitle: Brand Development
 date: '2020-03-10'
 thumb_image: /images/IMG_20191205_125932_MP.jpg
 thumb_image_alt: Aimi preview
