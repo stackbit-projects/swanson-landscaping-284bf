@@ -110,7 +110,6 @@ sections:
           pleased with the final result that I hired him for two other projects.
         type: testimonial
       - author: Beth S.
-        position: lorem-ipsum
         avatar_alt: lorem-ipsum
         content: >-
           I could not be happier with Matt and his team.  They did a beautiful
