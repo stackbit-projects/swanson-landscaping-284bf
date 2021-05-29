@@ -78,7 +78,7 @@ sections:
     subtitle: What our Clients say
     col_number: three
     testimonials:
-      - author: Desmond Eagle
+      - author: Mary Yocum
         avatar_alt: Desmond Eagle's photo
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
