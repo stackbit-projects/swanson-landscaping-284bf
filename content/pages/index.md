@@ -86,7 +86,7 @@ sections:
           crew was very friendly and hardworking. We definitely plan to use him
           for future projects. We would recommend Matt for any landscaping or
           hardscaping needs you have.
-      - author: Dianne Ameter
+      - author: Jann Stiven
         avatar_alt: Dianne Ameter's photo
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
