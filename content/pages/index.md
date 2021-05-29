@@ -116,8 +116,9 @@ sections:
     section_id: cta
     title: Let’s Work Together!
     content: >
-      Say hello at \[mtswanson33@gmail.com]\(mailto:mtswanson33@gmail.com) or
-      tell us more about your project by getting started below.
+      Say hello at \<a
+      href="mailto:mtswanson33@gmail.com">mtswanson33@gmail.com\</a> or tell us
+      more about your project by getting started below.
     actions:
       - label: Let's start
         url: /contact
