@@ -80,7 +80,6 @@ sections:
     testimonials:
       - author: Desmond Eagle
         avatar_alt: Desmond Eagle's photo
-        position: 'CEO and founder, A Company'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
