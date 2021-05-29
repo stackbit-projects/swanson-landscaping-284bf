@@ -4,9 +4,9 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: >-
-      We are a Landscape Design & Services Company in the Triangle, Focusing on
-      Stone Masonry, Garden Bed/Walkway Design, and Landscape Maintenance.
+    title: |-
+      At Swanson Landscapes, our style is to approach each clients project 
+      with personalized, professional, and artistic perspectives.
     content: >
       We work closely with you to creatively integrate all aspects of the
       project and make your ideas a reality. [Let's get the conversation
