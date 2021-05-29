@@ -39,6 +39,7 @@ sections:
           - Landscape Curbing Install
           - Gravel Install
           - Fall/Spring Yard Cleanup
+          - lorem-ipsum
       - input_type: textarea
         name: message
         label: Message
