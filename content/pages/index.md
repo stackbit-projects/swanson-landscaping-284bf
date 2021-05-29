@@ -49,7 +49,7 @@ sections:
           - Concept development
           - Brand implementation and management
           - Typography
-      - title: Landscape Maintenance
+      - title: Landscaping
         image: images/service-3.svg
         content: |-
           - Digital product design
