@@ -15,7 +15,7 @@ export default class PortfolioItem extends React.Component {
 
         return (
             <article className="cell project-card">
-                <Link href={projectUrl} className="project-card__link">
+                <Link className="project-card__link">
                     {thumbImage && (
                         <div className="project-card__image">
                             <img src={withPrefix(thumbImage)} alt={thumbImageAlt} />
