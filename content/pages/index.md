@@ -8,10 +8,10 @@ sections:
       We are a Landscape Design & Services Company in the Triangle, Focusing on
       Stone Masonry, Garden Bed/Walkway Design, and Tree/Shrub/Grass
       Maintenance.
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: >
+      We work closely with you to creatively integrate all aspects of the
+      project and make your ideas a reality. [Let's get the conversation
+      started](/contact/).
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
