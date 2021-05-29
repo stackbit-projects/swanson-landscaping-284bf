@@ -88,9 +88,7 @@ sections:
           hardscaping needs you have.
       - author: Jann Stiven
         avatar_alt: Dianne Ameter's photo
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: "Matt does a fantastic job.\_ He is very detailed and cleans everything up when he is done.\_ Our yard has never looked so good.\_ I can't wait for his next work day with us."
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
