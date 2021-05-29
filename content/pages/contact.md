@@ -36,7 +36,7 @@ sections:
           - Patio/Walkway/Step Install
           - Sod Install
           - 'Soil, Sand, Mulch, or Rock Delivery'
-          - 'Landscape Curbing '
+          - Landscape Curbing Install
       - input_type: textarea
         name: message
         label: Message
