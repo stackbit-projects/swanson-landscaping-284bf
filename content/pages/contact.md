@@ -33,7 +33,7 @@ sections:
         label: What services are you looking for?
         default_value: Please select
         options:
-          - Patio/Walkway/Step Install
+          - Patio/Walkway/Step/Wall Install
           - Sod Install
           - 'Soil, Sand, Mulch, or Rock Delivery'
           - Landscape Curbing Install
