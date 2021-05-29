@@ -87,7 +87,6 @@ sections:
           for future projects. We would recommend Matt for any landscaping or
           hardscaping needs you have.
       - author: Dianne Ameter
-        avatar: images/dianne-ameter.jpg
         avatar_alt: Dianne Ameter's photo
         position: 'CTO, Another Company'
         content: >-
