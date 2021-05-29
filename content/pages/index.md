@@ -90,6 +90,11 @@ sections:
       - author: Jann Stiven
         avatar_alt: Dianne Ameter's photo
         content: "Matt does a fantastic job.\_ He is very detailed and cleans everything up when he is done.\_ Our yard has never looked so good.\_ I can't wait for his next work day with us."
+      - author: lorem-ipsum
+        position: lorem-ipsum
+        avatar_alt: lorem-ipsum
+        content: lorem-ipsum
+        type: testimonial
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
