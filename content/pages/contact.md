@@ -37,6 +37,7 @@ sections:
           - Sod Install
           - 'Soil, Sand, Mulch, or Rock Delivery'
           - Landscape Curbing Install
+          - lorem-ipsum
       - input_type: textarea
         name: message
         label: Message
