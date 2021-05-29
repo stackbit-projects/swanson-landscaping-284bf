@@ -38,7 +38,7 @@ sections:
           - 'Soil, Sand, Mulch, or Rock Delivery'
           - Landscape Curbing Install
           - Gravel Install
-          - lorem-ipsum
+          - Fall/Spring Yard Cleanup
       - input_type: textarea
         name: message
         label: Message
