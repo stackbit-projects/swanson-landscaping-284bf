@@ -2,7 +2,7 @@
 title: Subtle
 subtitle: Brand Development
 date: '2021-02-06'
-thumb_image: /images/walkway2.jpg
+thumb_image: /images/IMG_20200217_140026_MP.jpg
 thumb_image_alt: Subtle preview
 sections:
   - type: image_section
