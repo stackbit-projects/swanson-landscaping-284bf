@@ -50,15 +50,12 @@ sections:
           *   Brick and Stone Flatwork Repair
       - title: Concrete
         image: images/service-3.svg
-        content: |-
-          - Digital product design
-          - Service design
-          - Environmental and retail design
-          - Packaging design
-          - Art direction
-          - Communication design
-          - Social media
-          - Product design
+        content: |
+          *   Retaining Wall Install
+          *   Interlocking Pavers for Patios Install
+          *   Walks and Steps Install
+          *   Pavers for Driveways Install
+          *   Pavers for floors Install
   - type: testimonials_section
     section_id: testimonials
     title: Testimonials
