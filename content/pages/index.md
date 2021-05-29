@@ -39,7 +39,7 @@ sections:
           - Design strategy
           - Digital and experience strategy
           - Communication strategy
-      - title: 'Brick, Stone, and Concrete'
+      - title: Brick & Stone
         image: images/service-2.svg
         content: |-
           - Brand development
