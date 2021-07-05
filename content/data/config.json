@@ -29,7 +29,8 @@
                 "style": "button"
             }
         ],
-        "logo": "/images/logoTransparent.png"
+        "logo": "/images/logoTransparent.png",
+        "title": "Swanson Landscapes"
     },
     "footer": {
         "content": "© Swanson Landscapes. All rights reserved.",
