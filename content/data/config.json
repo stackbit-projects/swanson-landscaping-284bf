@@ -28,7 +28,8 @@
                 "url": "/contact/",
                 "style": "button"
             }
-        ]
+        ],
+        "logo": "/images/logoTransparent.png"
     },
     "footer": {
         "content": "© Swanson Landscapes. All rights reserved.",
