@@ -5,7 +5,6 @@
     "accent_color": "altBlue",
     "base_font": "fraunces",
     "header": {
-        "logo": "/images/logo2.jpg",
         "logo_alt": "Agency logo",
         "has_nav": true,
         "nav_links": [
