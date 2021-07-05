@@ -5,7 +5,6 @@
     "accent_color": "altBlue",
     "base_font": "fraunces",
     "header": {
-        "title": "Swanson Landscapes",
         "logo": "/images/logoTransparent.png",
         "logo_alt": "Agency logo",
         "has_nav": true,
