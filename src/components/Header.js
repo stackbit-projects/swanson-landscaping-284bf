@@ -44,12 +44,12 @@ export default class Header extends React.Component {
         const pageUrl = _.trim(getPageUrl(page), '/');
         const config = _.get(this.props, 'config');
         const header = _.get(config, 'header');
-        const logo = _.get(header, 'logo_img');
+        const logo = _.get(header, 'logo');
         const logoAlt = _.get(header, 'logo_img_alt', '');
         const title = _.get(header, 'title');
         const hasNav = _.get(header, 'has_nav');
         const navLinks = _.get(header, 'nav_links');
-        console.log(logo)
+
         return (
             <header id="masthead" className="site-header container">
                 <nav className="navbar" aria-label="Main Navigation">
